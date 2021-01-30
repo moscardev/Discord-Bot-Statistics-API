@@ -9,6 +9,8 @@ Discord Bot Statistics Web Api made with Discord.js
 
 - Yardım için Discord üzerinden MOSCAR#6388 İletişime geçebilirsiniz.
 
+![ÖRNEK](https://github.com/1MOSCAR/Discord-Bot-Statistics-API/blob/main/example.png?raw=true)
+
 # Anlatım
 
 - `$ node main.js` yazarak apiyi başlatabiliriniz. Erişim için http://ip_address:80/api girmelisiniz.
@@ -22,6 +24,3 @@ Discord Bot Statistics Web Api made with Discord.js
 #### [express](https://www.npmjs.com/package/express)
 #### [moment](https://www.npmjs.com/package/moment)
 #### [moment-duration-format](https://www.npmjs.com/package/moment-duration-format)
-
-### ÖRNEK
-![ÖRNEK](https://github.com/1MOSCAR/Discord-Bot-Statistics-API/blob/main/example.png?raw=true)
