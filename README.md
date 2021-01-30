@@ -22,3 +22,6 @@ Discord Bot Statistics Web Api made with Discord.js
 #### [express](https://www.npmjs.com/package/express)
 #### [moment](https://www.npmjs.com/package/moment)
 #### [moment-duration-format](https://www.npmjs.com/package/moment-duration-format)
+
+### ÖRNEK
+![ÖRNEK](https://github.com/1MOSCAR/Discord-Bot-Statistics-API/blob/main/example.png?raw=true)
