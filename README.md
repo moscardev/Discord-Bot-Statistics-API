@@ -16,3 +16,12 @@ Discord Bot Statistics Web Api made with Discord.js
 - main.js dosyasının içerisindekini `14. satırı` istediğiniz gibi değiştire bilirsiniz. Örnek `app.listen(8080)` şeklinde yapar iseniz api sitesine http://ip_address:8080/api şeklinde giriş yapmanız gerekecektir.
 
 - main.js dosyasının içerisindekini `15. satırı` istediğiniz gibi değiştire bilirsiniz. Örnek `app.get('/bot', (request, response) => {` şeklinde yapar iseniz api sitesine http://ip_address:80/bot şeklinde giriş yapmanız gerekecektir.
+
+### Kullanılan Modüller
+- ####[discord.js](https://www.npmjs.com/package/discord.js)
+
+- ####[express](https://www.npmjs.com/package/express)
+
+- ####[moment](https://www.npmjs.com/package/moment)
+
+- ####[moment-duration-format](https://www.npmjs.com/package/moment-duration-format)
