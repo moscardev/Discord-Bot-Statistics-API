@@ -3,7 +3,6 @@ const client = new Discord.Client();
 const express = require("express");
 const moment = require("moment");
 const app = express();
-const http = require('http');
 require("moment-duration-format");
  
 client.on('ready', () => {
